@@ -1,6 +1,6 @@
 # Catppuccin Unity7 DE Port
 
-![screenshot](./screenshot.png)
+![screenshot](./updated_screenshot.png)
 
 > [!NOTE]
 > I only added support for the standard Mocha theme. Feel free to make a pull request for the other ones.
